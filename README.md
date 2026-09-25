@@ -4,9 +4,9 @@
 ## Student Information
 
 **Name:** Roxane G. Cabanig  
-**Year Level:** 3rd Year  
-**Set/Section:** YOUR SET/SECTION  
-**Subject:** YOUR SUBJECT  
+**Year Level:** 4rd Year  
+**Set/Section:** BSIT 4B  
+**Subject:** IT 415  
 
 ## About the Project
 
